@@ -1,0 +1,12 @@
+{
+  "name": "Koala token",
+  "type": "BEP20",
+  "symbol": "KO1",
+  "decimals": 18,
+  "description": "Koala token on BNB Smart Chain.",
+  "website": "",
+  "explorer": "https://bscscan.com/token/0x1AF97F82a91F370E6f551D27B30f26761E8595a7",
+  "id": "0x1AF97F82a91F370E6f551D27B30f26761E8595a7",
+  "links": [],
+  "tags": []
+}
